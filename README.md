@@ -21,8 +21,8 @@ This version is a **single Python file**, requires no database, and stores user 
 ### 1. Clone or Download This Repo
 
 ```
-git clone https://github.com/YOUR_USERNAME/telegdrivebot.git
-cd telegdrivebot
+git clone https://github.com/KINGSTABLE/TG-TO-GD-UPLOAD-BOT.git
+cd TG-TO-GD-UPLOAD-BOT
 ```
 Or simply download the script file.
 
